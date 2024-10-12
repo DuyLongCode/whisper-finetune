@@ -1,0 +1,20 @@
+Without Correct: trở nên thụ động.
+Correct        : trở nên thụ động
+Original       : trở nên thụ động
+
+--------------------------------------------------
+Without Correct: cũng khiến cho họ dè dặt.
+Correct        : cũng khiến cho họ dè dặt
+Original       : cũng khiến cho họ dè dặt
+
+--------------------------------------------------
+Without Correct: chị cảnh hỏi anh thề sống thề chết là không có.
+Correct        : chị cảnh hỏi anh thề sống thề chết là không có
+Original       : chị gặn hỏi anh thề sống thề chết là không có
+
+--------------------------------------------------
+Without Correct: tiền thải ren nhưng ta cũng phải nhấc máy đúng không.
+Correct        : tiện thoại ren nhưng ta cũng phải nhấc máy đúng không
+Original       : điện thoại reng nhưng ta cũng phải nhấc máy đúng không
+
+--------------------------------------------------

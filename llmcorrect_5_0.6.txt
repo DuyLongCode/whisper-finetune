@@ -1,0 +1,8 @@
+Without Correct: khái niệm giờ rong kinh tức là cái ngày mà bình thường mình có kinh là tình
+Correct        : None
+Original       : cái khái niệm nha bây giờ rong kinh tức là cái ngày mà bình thường mình có kinh
+--------------------------------------------------
+Without Correct: từ ba ngày đến năm ngày một số trường hợp thì có thể là
+Correct        : None
+Original       : là tự từ ba ngày đến năm ngày một số trường hợp thì có thể là nhiều
+--------------------------------------------------

@@ -1,0 +1,277 @@
+Without Correct: trở nên thụ động
+Correct        : trở nên thụ động
+Original       : trở nên thụ động
+
+--------------------------------------------------
+Without Correct: cũng khiến cho họ dè dặt
+Correct        : cũng khiến cho họ dè dặt
+Original       : cũng khiến cho họ dè dặt
+
+--------------------------------------------------
+Without Correct: chị cảnh hỏi anh thề sống thề chết là không có
+Correct        : chị cảnh hỏi anh thề sống thề chết là không có
+Original       : chị gặn hỏi anh thề sống thề chết là không có
+
+--------------------------------------------------
+Without Correct: tiền thải reo nhưng ta cũng phải nhấc máy đúng không
+Correct        : tiện thoại reo nhưng ta cũng phải nhấc máy đúng không
+Original       : điện thoại reng nhưng ta cũng phải nhấc máy đúng không
+
+--------------------------------------------------
+Without Correct: cũng thuộc loại giày đặc nhất trong hệ mặt trời
+Correct        : cũng thuộc loại giày đặc biệt nhất trong hệ mặt trời
+Original       : cũng thuộc loại dày đặc nhất trong hệ mặt trời
+
+--------------------------------------------------
+Without Correct: các vụ tham nhũng và bê bối kinh tế
+Correct        : các vụ tham nhũng và bê bối kinh tế
+Original       : các vụ tham nhũng và bê bối kinh tế
+
+--------------------------------------------------
+Without Correct: chúng cứ có lôi lại mặc dù vướng phiếu đông triền
+Correct        : chúng cứ có lồi lại mặc dù vướng phiếu gông xiềng
+Original       : chúng cứ cố lùi lại mặc dù vướng víu gông xiềng
+
+--------------------------------------------------
+Without Correct: bọn buôn dự án chạy chọt bày ra các dự án để kiểm tra
+Correct        : bọn buôn dự án chạy chọt bày ra các dự án để kiểm tra
+Original       : bọn buôn dự án chạy chọt bày ra các dự án để kiếm chác
+
+--------------------------------------------------
+Without Correct: tất cả mọi thứ đều kỳ lạ một cách phi thường
+Correct        : tất cả mọi thứ đều kì lạ một cách phi thường
+Original       : tất cả mọi thứ đều kỳ lạ một cách phi thường
+
+--------------------------------------------------
+Without Correct: các chương trình ca nhạc phần lớn đều không đột phá
+Correct        : các chương trình ca nhạc phần lớn đều không đột phá
+Original       : các chương trình ca nhạc phần lớn đều không đột phá
+
+--------------------------------------------------
+Without Correct: rồi chạy sang gõ cửa phòng ba lên hai dắm dúi
+Correct        : rồi chạy sang gõ cửa phòng ba lên hai dấm dúi
+Original       : rồi chạy sang gõ cửa phòng ba le hai dấm dúi
+
+--------------------------------------------------
+Without Correct: để chả trở lại đại dương
+Correct        : để chẳng trở lại đại dương
+Original       : để trả trở lại đại dương
+
+--------------------------------------------------
+Without Correct: nàng có đôi mắt to sâu và bình trán rộng mênh mông
+Correct        : nàng có đôi mắt to sâu và bình trán rộng mênh mông
+Original       : nàng có đôi mắt to sâu và vầng trán rộng mênh mông
+
+--------------------------------------------------
+Without Correct: tôi tự hỏi phải tranh thoát là do zhang còn quá trẻ
+Correct        : tôi tự hỏi phải tranh đoán là do dương còn quá trẻ
+Original       : tôi tự hỏi phải chăng đó là do dan còn quá trẻ
+
+--------------------------------------------------
+Without Correct: ủy ban châu âu kêu gọi những quốc gia phát triển còn lại
+Correct        : ủy ban châu âu kêu gọi những quốc gia phát triển còn lại
+Original       : ủy ban châu âu kêu gọi những quốc gia phát triển còn lại
+
+--------------------------------------------------
+Without Correct: và khi chúng ta sa nhãn công việc của mình
+Correct        : và khi chúng ta sao nhãng công việc của mình
+Original       : và khi chúng ta sao nhãng công việc của mình
+
+--------------------------------------------------
+Without Correct: có thể làm lạnh mà không để lại vết sẹo
+Correct        : có thể làm lạnh mà không để lại vết sẹo
+Original       : có thể lành lặn mà không để lại vết sẹo
+
+--------------------------------------------------
+Without Correct: muốn đẹp phải dè làm sao cho các bó cơi chân nổi bật lên
+Correct        : muốn đẹp phải để làm sao cho các bó cơ chân nổi bật lên
+Original       : muốn đẹp phải ghè làm sao cho các bó cơ chân nổi bật lên
+
+--------------------------------------------------
+Without Correct: y tế bình hưng hòa bị hư hỏng
+Correct        : y tế bình hưng hòa bị hư hỏng
+Original       : y tế bình hưng hòa bị hư hỏng
+
+--------------------------------------------------
+Without Correct: cô cứ nhè cái nọng cái chê
+Correct        : cô cứ nhè cái nọng cái gáy
+Original       : cô cứ nhè ngay cái nọng cá trê
+
+--------------------------------------------------
+Without Correct: nếu tưởng tượng bảy tám năm nữa
+Correct        : nếu tưởng tượng bảy tám năm nữa
+Original       : nếu tưởng tượng bảy tám năm nữa
+
+--------------------------------------------------
+Without Correct: ông chủ tịch tuyên bố như thế nào
+Correct        : ông chủ tịch tuyên bố như thế nào
+Original       : ông chủ tịch tuyên bố như thế nào
+
+--------------------------------------------------
+Without Correct: khiến hai cha con cậu
+Correct        : khiến hai cha con cậu
+Original       : khiến hai cha con cậu
+
+--------------------------------------------------
+Without Correct: làm đẹp không túng cát
+Correct        : làm đẹp không túng quẫn
+Original       : làm đẹp không đúng cách
+
+--------------------------------------------------
+Without Correct: mỗi khi xe lá ti ngang qua tấn cảnh mới đem ra đổ
+Correct        : mỗi khi xe rác đi ngang qua tần suất mới đem ra đổ
+Original       : mỗi khi xe rác đi ngang qua đánh kẻng mới đem ra đổ
+
+--------------------------------------------------
+Intermediate Results (after 25 sentences):
+WER without correct: 14.17%
+CER without correct: 7.55%
+WER with correct: 11.25%
+CER with correct: 7.35%
+--------------------------------------------------
+Without Correct: thay vì bốn giờ như trước đây
+Correct        : thay vì bốn giờ trước
+Original       : thay vì bốn giờ như trước đây
+
+--------------------------------------------------
+Without Correct: hầu hết chanh này có nguồn gốc từ răng cơ chân ngỗng
+Correct        : hầu hết chai này có nguồn gốc từ gân cơ chân ngỗng
+Original       : hầu hết nang này có nguồn gốc từ gân cơ chân ngỗng
+
+--------------------------------------------------
+Without Correct: tín mã đối xác lạnh chạm nhau và cả tín ren rỉ
+Correct        : tuyến giáp đối sáp lặn chạm nhau và cả tuyến lên rỉ
+Original       : tiếng mã tấu sắc lạnh chạm nhau và cả tiếng rên rỉ
+
+--------------------------------------------------
+Without Correct: có hẳn một là bài viết chuyên đề về quản trị thương hiệu
+Correct        : có hẳn một bài viết chuyên đề về quản trị thương hiệu
+Original       : có hẳn một loạt bài viết chuyên đề về quản trị thương hiệu
+
+--------------------------------------------------
+Without Correct: hợp với hương vị đầu xuân
+Correct        : hợp với hương vị đầu xuân
+Original       : hợp với hương vị đầu xuân
+
+--------------------------------------------------
+Without Correct: ổng nói ở sài gòn ổng đã làm ông hội đồng như thế nào
+Correct        : ổng nói ở sài gòn ông đã làm ông hội đồng như thế nào
+Original       : ổng nói ở sài gòn ổng đã làm ông hội đồng như thế nào
+
+--------------------------------------------------
+Without Correct: bà quảng vẫn đang bận rộn
+Correct        : bà quảng vẫn đang bận rộn
+Original       : bà quảng vẫn đang bận rộn
+
+--------------------------------------------------
+Without Correct: mày dám chê vợ tao tao sẽ giết mày
+Correct        : mày dám chê vợ tao tao sẽ giết mày
+Original       : mày dám chơi vợ tao tao phải giết mày
+
+--------------------------------------------------
+Without Correct: đóng cổ hắn đi không được để hắn vào đây nữa
+Correct        : đóng cổ hắn đi không được để hắn vào đây nữa
+Original       : tống cổ hắn đi không được để hắn vào đây nữa
+
+--------------------------------------------------
+Without Correct: hắn chê vợ anh thì sao anh không chê vợ anh
+Correct        : hắnchêvợanhthìsaoaonhkhôngchêvợanh
+Original       : hắn chơi vợ anh thì sao anh không chơi vợ hắn
+
+--------------------------------------------------
+Without Correct: tháng trưa trộm về mấy ngày mình nằm ngủ thấy ấm kiên khủng
+Correct        : tháng trưa chồng về mấy ngày mình nằm ngủ thấy ấm kinh khủng
+Original       : tháng trước chồng về mấy ngày mình nằm ngủ thấy ấm kinh khủng
+
+--------------------------------------------------
+Without Correct: cho em góp một viên gạc
+Correct        : cho em góp một viên gạc
+Original       : cho em góp một viên gạch
+
+--------------------------------------------------
+Without Correct: đi kiểm tra lại bác sĩ khuyên nên mổ nổi soi
+Correct        : đikiemtralạibácsĩkhuyênnênmổnộisoi
+Original       : đi kiểm tra lại bác sĩ khuyên nên mổ nội soi
+
+--------------------------------------------------
+Without Correct: hôm nay em có tới năm khác
+Correct        : hnayemcotoinamkhac
+Original       : hôm nay em có tới năm khách
+
+--------------------------------------------------
+Without Correct: ăn bị đẩy từ hà nội và sài gòn
+Correct        : anh bị đẩy từ hà nội vào sài gòn
+Original       : anh bị đẩy từ hà nội vào sài gòn
+
+--------------------------------------------------
+Without Correct: phù hợp cho mọi cân nặng
+Correct        : phù hợp cho mọi cân nặng
+Original       : phù hợp cho mọi cân nặng
+
+--------------------------------------------------
+Without Correct: âm thầm chắt chiu nuôi tôi khôn lớn
+Correct        : âm thầm chắt chiu nuôi tôi khôn lớn
+Original       : âm thầm chắt chiu nuôi tôi khôn lớn
+
+--------------------------------------------------
+Without Correct: vì bạn có thể lẫy cò từng phát một
+Correct        : vì bạn có thể lên đạn từng phát một
+Original       : vì bạn có thể lảy cò từng phát một
+
+--------------------------------------------------
+Without Correct: vai trò của chế độ dinh dưỡng
+Correct        : vai trò của chế độ dinh dưỡng
+Original       : vai trò của chế độ dinh dưỡng
+
+--------------------------------------------------
+Without Correct: không hiểu sao
+Correct        : không hiểu sao
+Original       : không hiểu sao
+
+--------------------------------------------------
+Without Correct: khiến phụ huynh hiểu nhầm
+Correct        : khiến phụ huynh hiểu nhầm
+Original       : khiến phụ huynh hiểu nhầm
+
+--------------------------------------------------
+Without Correct: mỗi khi cơn gió đến
+Correct        : mỗi khi cơn gió đến
+Original       : mỗi khi cơn gió đến
+
+--------------------------------------------------
+Without Correct: này bón cho con thương đỡ yếu đau còi cọc
+Correct        : này bón cho con thương đỡ yếu đau còi cọc
+Original       : này bón cho con thương đỡ yếu đau còi cọc
+
+--------------------------------------------------
+Without Correct: trong tư thế phi ngựa chòm lên
+Correct        : trong tư thế phi ngựa chồm lên
+Original       : trong tư thế phi ngựa chồm lên
+
+--------------------------------------------------
+Without Correct: mà cũng đầy thân thiết
+Correct        : mà cũng rất thân thiết
+Original       : mà cũng đầy thanh khiết
+
+--------------------------------------------------
+Intermediate Results (after 50 sentences):
+WER without correct: 13.27%
+CER without correct: 7.00%
+WER with correct: 17.26%
+CER with correct: 9.19%
+--------------------------------------------------
+Without Correct: một vụ chập điện đã khiến ngọn lửa buồn lên
+Correct        : một vụ chập điện đã khiến ngọn lửa bùng lên
+Original       : một vụ chập điện đã khiến ngọn lửa bùng lên
+
+--------------------------------------------------
+Without Correct: bà con chồng sớm
+Correct        : <pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+Original       : bà con chòm xóm
+
+--------------------------------------------------
+Without Correct: đây là mức lãi suất thấp nhất qua các phiên đấu thầu
+Correct        : đâylàmứclãisuấtthấpnấttqua các phiêntổchữthầu
+Original       : đây là mức lãi suất thấp nhất qua các phiên đấu thầu
+
+--------------------------------------------------

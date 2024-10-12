@@ -1,0 +1,1016 @@
+
+ithout Correct: bạn có thể khiển trách người lái xe.
+Correct: bạn có thể khiển trách người lái xe
+Original: bạn có thể khiển trách người lái xe
+
+--------------------------------------------------
+Without Correct: loáng thoáng trăn trở loáng thoáng buồn vui.
+Correct: Loáng thoáng trăn trở loáng thoáng buồn vui.
+Original: loáng thoáng trăn trở loáng thoáng buồn vui
+
+--------------------------------------------------
+Without Correct: phòng trà khiêu vũ cánh quạt cối xay đỏ.
+Correct: phòng trà khiêu vũ cánh quạt cối xay đỏ
+Original: phòng trà khiêu vũ cánh quạt cối xay đỏ
+
+--------------------------------------------------
+Without Correct: thịt ngọt lười ấy lại mang trùm sáng ngay bệnh.
+Correct: thịt ngọt lười ấy lại mang trùng sáng ngay bệnh
+Original: thịt ngọt lừ ấy lại mang theo trùng sán gây bệnh
+
+--------------------------------------------------
+Without Correct: hiện trong nhiều loại tỏi có mặt trên thị trường.
+Correct: hiện trong nhiều loại tỏi có mặt trên thị trường
+Original: hiện trong nhiều loại tỏi có mặt trên thị trường
+
+--------------------------------------------------
+Without Correct: ngày căn bậc hai chỉ diễn ra chín lần trong một thế kỷ.
+Correct: ngày căn bậc hai chỉ diễn ra chín lần trong một thế kỷ.
+Original: ngày căn bậc hai chỉ diễn ra chín lần trong một thế kỷ
+
+--------------------------------------------------
+Without Correct: rồi rơm rạ khô theo thân hình gầy gặt nhẵn.
+Correct: Rồi rơm rạ khô theo thân hình gầy gặt nhẵn.
+Original: rồi rơm rạ khô theo thân hình gầy ngẳng
+
+--------------------------------------------------
+Without Correct: để có thể vận hành cho chúng được hiệu quả hơn.
+Correct: để có thể vận hành cho chúng được hiệu quả hơn
+Original: để có thể vận hành chúng được hiệu quả hơn
+
+--------------------------------------------------
+Without Correct: được mỹ ráo riết tung ra.
+Correct: được mỹ ráo riết tung ra
+Original: được mỹ ráo riết tung ra
+
+--------------------------------------------------
+Without Correct: vì lượng ca khúc mới quá nhiều.
+Correct: Vì lượng ca khúc mới quá nhiều.
+Original: vì lượng ca khúc mới quá nhiều
+
+--------------------------------------------------
+Without Correct: nước chảy quá mạnh.
+Correct: nước chảy quá mạnh
+Original: nước chảy quá mạnh
+
+--------------------------------------------------
+Without Correct: khiến cả hai phải giận hờn vô lý.
+Correct: khiến cả hai phải giận hờn vô lý
+Original: khiến cả hai phải giận hờn vô lý
+
+--------------------------------------------------
+Without Correct: rồi chìm lỉm một thời gian.
+Correct: rồi chìm lỉm một thời gian
+Original: rồi chìm lỉm một thời gian
+
+--------------------------------------------------
+Without Correct: khi miệng vẫn ngậm bầu vú quắt queo.
+Correct: khi miệng vẫn ngậm bầu vú quắt queo
+Original: khi miệng vẫn ngậm bầu vú quắt queo
+
+--------------------------------------------------
+Without Correct: câu trả lời của khổ ông ta rất hiếm nhã.
+Correct: Câu trả lời của cụ ông ta rất hiếm nhã.
+Original: câu trả lời của ông ta rất khiếm nhã
+
+--------------------------------------------------
+Without Correct: nếu chủ đầu tư không tự phái dở thì bị cưỡng chế.
+Correct: nếu chủ đầu tư không tự giải tỏa thì bị cưỡng chế
+Original: nếu chủ đầu tư không tự phá dỡ thì bị cưỡng chế
+
+--------------------------------------------------
+Without Correct: về chuyện đang theo dõi bọn gián điệp nước ngoài.
+Correct: về chuyện đang theo dõi bọn gián điệp nước ngoài
+Original: về chuyện đang theo dõi bọn gián điệp nước ngoài
+
+--------------------------------------------------
+Without Correct: được cắt từ vỏ chân bộ đội cũ của các ông bố ra.
+Correct: được cắt từ vỏ chăn bộ đội cũ của các ông bố ra
+Original: được cắt từ vỏ chăn bộ đội cũ của các ông bố ra
+
+--------------------------------------------------
+Without Correct: sợ nhất là mùa mưa sấm sét đùn đoàn trên núi.
+Correct: sợ nhất là mùa mưa sấm sét đùng đoàng trên núi.
+Original: sợ nhất là mùa mưa sấm sét đùng đoàng trên núi
+
+--------------------------------------------------
+Without Correct: tức lấy sụn lành từ nơi không phải chịu lực ép vào nơi hư.
+Correct: Tức lấy sụn lành từ nơi không phải chịu lực ép vào nơi hư.
+Original: tức lấy sụn lành từ nơi không phải chịu lực ghép vào nơi hư
+
+--------------------------------------------------
+Without Correct: điều vô cùng quan trọng trong thời đại có nhiều hoạt động.
+Correct: điều vô cùng quan trọng trong thời đại có nhiều hoạt động
+Original: điều vô cùng quan trọng trong thời đại có quá nhiều hoạt động
+
+--------------------------------------------------
+Without Correct: thí sinh tự do cần quan tâm đến độ vân kiến thức các môn.
+Correct: thí sinh tự do cần quan tâm đến độ vênh kiến thức các môn
+Original: thí sinh tự do cần quan tâm đến độ vênh kiến thức các môn
+
+--------------------------------------------------
+Without Correct: mỗi người chúng ta sẽ có những thứ khác nhau.
+Correct: mỗi người chúng ta sẽ có những thứ khác nhau
+Original: mỗi người chúng ta sẽ có những thứ khác nhau
+
+--------------------------------------------------
+Without Correct: và thậm chí bạn cũng không nên cố gắng.
+Correct: và thậm chí bạn cũng không nên cố gắng
+Original: và thậm chí bạn cũng không nên cố gắng
+
+--------------------------------------------------
+Without Correct: trên bầu trời ánh trăng sáng vằng vặc.
+Correct: Trên bầu trời ánh trăng sáng vằng vặc.
+Original: trên bầu trời ánh trăng sáng vằng vặc
+
+--------------------------------------------------
+Without Correct: là tổ tiên của ông đặng nên đảm trách việc dẫn đường.
+Correct: Là tổ tiên của ông đặng nên đảm trách việc dẫn đường.
+Original: là tổ tiên của ông đặng lên đảm trách việc dẫn đường
+
+--------------------------------------------------
+Without Correct: tám chín mười mười một.
+Correct: Tám chín mười mười một
+Original: tám chín mười mười một
+
+--------------------------------------------------
+Without Correct: mười một mười hai mười ba.
+Correct: mười một mười hai mười ba
+Original: mười một mười hai mười ba
+
+--------------------------------------------------
+Without Correct: năm mươi năm mươi mốt.
+Correct: năm mươi năm mươi mốt
+Original: năm mươi năm mươi mốt
+
+--------------------------------------------------
+Without Correct: chín mươi tám chín mươi chín.
+Correct: chín mươi tám chín mươi chín
+Original: chín mươi tám chín mươi chín
+
+--------------------------------------------------
+Without Correct: căn nhà đằng kia nghe nói cố ma.
+Correct: căn nhà đằng kia nghe nói có ma
+Original: căn nhà đằng kia nghe nói có ma
+
+--------------------------------------------------
+Without Correct: thú thật tôi chưa từng chơi gái.
+Correct: Thú thật tôi chưa từng chơi gái.
+Original: thú thật tui chưa từng chơi gái
+
+--------------------------------------------------
+Without Correct: xuân này em không về.
+Correct: xuân này em không về.
+Original: xuân này em không về
+
+--------------------------------------------------
+Without Correct: có còn hơn không.
+Correct: có còn hơn không
+Original: có còn hơn không
+
+--------------------------------------------------
+Without Correct: chắc sắp tới thu xếp đi du lịch thôi.
+Correct: Chắc sắp tới thu xếp đi du lịch thôi.
+Original: chắc sắp tới thu xếp đi du lịch thôi
+
+--------------------------------------------------
+Without Correct: phương châm sống của tôi là người không vì mình trời chu đất diệt.
+Correct: phương châm sống của tôi là người không vì mình trời chu đất diệt
+Original: phương châm sống của tôi là người không vì mình trời tru đất diệt
+
+--------------------------------------------------
+Without Correct: nó trốn mất tiêu rồi còn đâu.
+Correct: Nó trốn mất tiêu rồi còn đâu
+Original: nó trốn mất tiêu rồi còn đâu
+
+--------------------------------------------------
+Without Correct: thế nào là hoàn hảo.
+Correct: thế nào là hoàn hảo
+Original: thế nào là hoàn hảo
+
+--------------------------------------------------
+Without Correct: khi bị công an họp cổ thẩn cấp.
+Correct: Khi bị công an họp khẩn cấp
+Original: khi bị công an thộp cổ khẩn cấp
+
+--------------------------------------------------
+Without Correct: sau khi đọc những thông tin trên báo.
+Correct: sau khi đọc những thông tin trên báo
+Original: sau khi đọc những thông tin trên báo
+
+--------------------------------------------------
+Without Correct: nga thi ấy càng nhìn ngớt nga.
+Correct: nga thi ấy càng nhìn ngắt ngang.
+Original: nga khi ấy càng thìn nết na
+
+--------------------------------------------------
+Without Correct: việc áp dụng cả bàn vá lỗi và công cụ quét.
+Correct: Việc áp dụng cả bản vá lỗi và công cụ quét.
+Original: việc áp dụng cả bàn vá lỗi và công cụ quét
+
+--------------------------------------------------
+Without Correct: ngoài trời mưa tới đây phai gác hạt.
+Correct: ngoài trời mưa tới đây phây hạt
+Original: ngoài trời mưa cứ lay phay rắc hạt
+
+--------------------------------------------------
+Without Correct: nguy mô hình kinh hoàng rồi cạo ra kinh hoàng với đầy đủ hình hài.
+Correct: Người mô hình kinh hoàng rồi tạo ra kinh hoàng với đầy đủ hình hài.
+Original: nuôi mô hình tinh hoàn rồi tạo ra tinh hoàn với đầy đủ hình hài
+
+--------------------------------------------------
+Without Correct: có thể giúp ca quên đi những nỗi u phiền.
+Correct: có thể giúp ca quên đi những nỗi u phiền.
+Original: có thể giúp ta quên đi những nỗi ưu phiền
+
+--------------------------------------------------
+Without Correct: mày rung ranh nhé cầm cây đất trời.
+Correct: Mày vung danh nhé cầm cây đất trời.
+Original: mà dung dăng nhé cầm tay đất trời
+
+--------------------------------------------------
+Without Correct: tôi lớn lên trong sự rẻ lạnh của người mẹ kế.
+Correct: tôi lớn lên trong sự ghẻ lạnh của người mẹ kế.
+Original: tôi lớn lên trong sự ghẻ lạnh của người mẹ kế
+
+--------------------------------------------------
+Without Correct: hun gan hàm trên hung.
+Correct: hung ganh hàm trên hưng
+Original: khung răng hàm trên khum
+
+--------------------------------------------------
+Without Correct: thế nhưng tôi không ân hận khi trở thành đả nữ.
+Correct: thế nhưng tôi không hối hận khi trở thành đả nữ.
+Original: thế nhưng tôi không ân hận khi trở thành đả nữ
+
+--------------------------------------------------
+Without Correct: với một cấp độ mà chúng ta không thể đi đến cận cùng của nó.
+Correct: Với một cấp độ mà chúng ta không hề đi đến cận cùng của nó.
+Original: với một tốc độ mà chúng ta không thể đi đến tận cùng của nó
+
+--------------------------------------------------
+Without Correct: cô thấy đồng lương của mình ngăm năm rồi vẫn đứng nguyên.
+Correct: cô thấy đồng lương của mình năm năm rồi vẫn đứng nguyên.
+Original: tôi thấy đồng lương của mình năm năm rồi vẫn đứng nguyên
+
+--------------------------------------------------
+Without Correct: để cấm dứt ngạn bạo hành trong gia đình.
+Correct: để cấm dứt nạn bạo hành trong gia đình
+Original: để chấm dứt nạn bạo hành trong gia đình
+
+--------------------------------------------------
+Without Correct: đường sá ngập sắp sắp quanh năm suốt tháng.
+Correct: đàm đường xá ngập úng quanh năm suốt tháng.
+Original: làm đường sá ngập xắp xắp quanh năm suốt tháng
+
+--------------------------------------------------
+Without Correct: vừa ở cao trạnh giải thưởng nhà nước.
+Correct: vừa ở cao trạnh giải thưởng nhà nước
+Original: vừa được trao tặng giải thưởng nhà nước
+
+--------------------------------------------------
+Without Correct: cái thôi ạ.
+Correct: cái thôi ạ
+Original: cái khó là
+
+--------------------------------------------------
+Without Correct: điều này đúng với mọi cấp độ và trong mọi lĩnh vực của đời sống.
+Correct: điều này đúng với mọi cấp độ và trong mọi lĩnh vực của đời sống.
+Original: điều này đúng với mọi cấp độ và trong mọi lĩnh vực của đời sống
+
+--------------------------------------------------
+Without Correct: cao ngọng ngọng.
+Correct: cao ngồng ngồng
+Original: cao ngồng ngồng
+
+--------------------------------------------------
+Without Correct: chàng trai đòm còm bồi dậy mạch mày xanh đáng như cao á chuối.
+Correct: Chàng trai đờm còm bồi dậy mạch mày xanh đét như cào áo chuối.
+Original: chàng trai lồm cồm bò dậy mặt mày xanh lét như tàu lá chuối
+
+--------------------------------------------------
+Without Correct: chính phủ đồng thời cũng gặp thêm cục xúc kiến khiêu hữu dầu cọ.
+Correct: Chính phủ đồng thời cũng gặp thêm cục xúc kiến khiêu hữu dầu cọ
+Original: chính phủ đồng thời cũng lập thêm cục xúc tiến tiêu thụ dầu cọ
+
+--------------------------------------------------
+Without Correct: cũng là kinh vui cho tất cả những ai.
+Correct: cũng là kinh vui cho tất cả những ai
+Original: cũng là tin vui cho tất cả những ai
+
+--------------------------------------------------
+Without Correct: hộp mã còn phải điều chỉnh.
+Correct: hộp mã còn phải điều chỉnh
+Original: hượm đã còn phải điều chỉnh
+
+--------------------------------------------------
+Without Correct: trong kỳ thế ấy chỉ đám trẻ ven sông.
+Correct: Trong tình thế ấy chỉ đám trẻ ven sông.
+Original: trong tình thế ấy chỉ đám trẻ ven sông
+
+--------------------------------------------------
+Without Correct: nghị quy tếp nha trang.
+Correct: nghĩ quy tiếp Nha Trang
+Original: nếu đi tiếp nha trang
+
+--------------------------------------------------
+Without Correct: tức chanh có thể trị được bệnh.
+Correct: Tức chanh có thể trị được bệnh.
+Original: tức chanh có thể trị được bệnh
+
+--------------------------------------------------
+Without Correct: chỉ muốn ngàm một hơi cho ả cái miệng.
+Correct: chỉ muốn làm một hơi cho ả cái miệng
+Original: chỉ muốn làm một hơi cho đã cái miệng
+
+--------------------------------------------------
+Without Correct: hai mươi tám hai mươi chín.
+Correct: Hai mươi tám hai mươi chín
+Original: hai mươi tám hai mươi chín
+
+--------------------------------------------------
+Without Correct: ba mươi ba mươi mốt.
+Correct: ba mươi ba mươi mốt
+Original: ba mươi ba mươi mốt
+
+--------------------------------------------------
+Without Correct: sáu mươi sáu mươi mốt.
+Correct: sáu mươi sáu mươi mốt.
+Original: sáu mươi sáu mươi mốt
+
+--------------------------------------------------
+Without Correct: bảy mươi bốn bảy mươi lăm.
+Correct: Bảy mươi tư bảy mươi lăm
+Original: bảy mươi bốn bảy mươi lăm
+
+--------------------------------------------------
+Without Correct: cám mươi bốn cám mươi lăm.
+Correct: cám ơn bốn mươi lăm
+Original: tám mươi bốn tám mươi lăm
+
+--------------------------------------------------
+Without Correct: chín mươi sáu chín mươi bảy.
+Correct: chín mươi sáu chín mươi bảy
+Original: chín mươi sáu chín mươi bảy
+
+--------------------------------------------------
+Without Correct: một trăm một hai ba.
+Correct: một trăm mốt hai ba
+Original: một trăm một hai ba
+
+--------------------------------------------------
+Without Correct: hồng hai bốn sáu tám.
+Correct: hồng hai bốn sáu tám
+Original: không hai bốn sáu tám
+
+--------------------------------------------------
+Without Correct: kiền yện tháng ngày bao nhiêu.
+Correct: Kiền tiền tháng ngày bao nhiêu
+Original: tiền điện tháng này bao nhiêu
+
+--------------------------------------------------
+Without Correct: khu xe kiệm cập hóa nhà cao.
+Correct: Khu xe tiết kiệm hóa nhà cao
+Original: thua xa tiệm tạp hoá nhà tao
+
+--------------------------------------------------
+Without Correct: từ trên ngóc ngàn nhìn xuống có hát.
+Correct: từ trên ngóc ngàn nhìn xuống có khác
+Original: từ trên nóc nhà nhìn xuống có khác
+
+--------------------------------------------------
+Without Correct: cội nghiệp đứa nhỏ không ai chăm sóc.
+Correct: cội nghiệp đứa nhỏ không ai chăm sóc
+Original: tội nghiệp đứa nhỏ không ai chăm sóc
+
+--------------------------------------------------
+Without Correct: em sợ có một ngày anh gặp người con gái khác cốp hơn em rồi anh bỏ em.
+Correct: em sợ có một ngày anh gặp người con gái khác tốt hơn em rồi anh bỏ em.
+Original: em sợ có một ngày anh gặp người con gái khác tốt hơn em rồi anh bỏ em
+
+--------------------------------------------------
+Without Correct: nữ diễn viên xinh đẹp phạm băng băng.
+Correct: Nữ diễn viên xinh đẹp Phạm Băng Băng.
+Original: nữ diễn viên xinh đẹp phạm băng băng
+
+--------------------------------------------------
+Without Correct: sẽ làm tình trạng ói ọc của trẻ.
+Correct: sẽ làm tình trạng ói ọc của trẻ
+Original: sẽ làm giảm tình trạng ói ọc của trẻ
+
+--------------------------------------------------
+Without Correct: mà phải che chắn ở tạm bên hông nhà cha ruột.
+Correct: mà phải che cháy ở tạm bên hông nhà cha ruột
+Original: mà phải che chái ở tạm bên hông nhà cha ruột
+
+--------------------------------------------------
+Without Correct: tôi có thể căm giận đủ thứ.
+Correct: tôi có thể căm giận đủ thứ.
+Original: tôi có thể căm giận đủ thứ
+
+--------------------------------------------------
+Without Correct: mà phải chuyển qua hình thức giao dịch.
+Correct: mà phải chuyển qua hình thức giao dịch
+Original: mà phải chuyển qua hình thức giao dịch
+
+--------------------------------------------------
+Without Correct: đừng bao giờ để cho bất kỳ ai nói với bạn rằng.
+Correct: Đừng bao giờ để cho bất kỳ ai nói với bạn rằng
+Original: đừng bao giờ để cho bất kỳ ai nói với bạn rằng
+
+--------------------------------------------------
+Without Correct: vàng ống đôi gạch cao cổ của ngự long quân.
+Correct: vàng óng đôi gạch cao cổ của ngự long quân
+Original: vàng óng đôi ghệt cao cổ của ngự lâm quân
+
+--------------------------------------------------
+Without Correct: nếu vì chúng tôi.
+Correct: nếu vì chúng tôi
+Original: nếu vì chúng tôi
+
+--------------------------------------------------
+Without Correct: nếu bạn vẫn cảm thấy tội lỗi.
+Correct: nếu bạn vẫn cảm thấy tội lỗi
+Original: nếu bạn vẫn cảm thấy tội lỗi
+
+--------------------------------------------------
+Without Correct: giải giàu nắng gió trường sơn.
+Correct: giải dầu nắng gió trường sơn
+Original: dãi dầu nắng gió trường sơn
+
+--------------------------------------------------
+Without Correct: với trên là núi và dưới là sông.
+Correct: Với trên là núi và dưới là sông.
+Original: với trên là núi và dưới là sông
+
+--------------------------------------------------
+Without Correct: với sự xuất hiện của quái thú và rồng.
+Correct: với sự xuất hiện của quái thú và rồng
+Original: với sự xuất hiện của quái thú và rồng
+
+--------------------------------------------------
+Without Correct: nét mặt họ không ngời lên hạnh phúc của người mẹ.
+Correct: nét mặt họ không ngời lên hạnh phúc của người mẹ
+Original: nét mặt họ không ngời lên hạnh phúc của người mẹ
+
+--------------------------------------------------
+Without Correct: một số người cho rằng.
+Correct: một số người cho rằng
+Original: một số người cho rằng
+
+--------------------------------------------------
+Without Correct: một sinh viên được vay vốn tín dụng học tập.
+Correct: một sinh viên được vay vốn tín dụng học tập
+Original: một sinh viên được vay vốn tín dụng học tập
+
+--------------------------------------------------
+Without Correct: mọi thứ đều được mổ xẻ lại.
+Correct: mọi thứ đều được mổ xẻ lại
+Original: mọi thứ đều được mổ xẻ lại
+
+--------------------------------------------------
+Without Correct: không phải nắp khum.
+Correct: Không phải nắp khum
+Original: không phải nắp khum
+
+--------------------------------------------------
+Without Correct: các công ty du lịch phải xác định.
+Correct: Các công ty du lịch phải xác định
+Original: các công ty du lịch phải xác định
+
+--------------------------------------------------
+Without Correct: đi bộ leo núi đến nhừ chân.
+Correct: Đi bộ leo núi đến nhừ chân.
+Original: đi bộ leo núi đến nhừ chân
+
+--------------------------------------------------
+Without Correct: thì chủ đầu tư phải tự phá vỡ phần nội dung sai phép đó.
+Correct: thì chủ đầu tư phải tự phá dỡ phần nội dung sai phép đó.
+Original: thì chủ đầu tư phải tự phá dỡ phần nội dung sai phép đó
+
+--------------------------------------------------
+Without Correct: khi nhân viên cứu hộ cố gắng đưa nó lên sà lan.
+Correct: khi nhân viên cứu hộ cố gắng đưa nó lên sà lan
+Original: khi nhân viên cứu hộ cố gắng đưa nó lên sà lan
+
+--------------------------------------------------
+Without Correct: những người này đều được đào tạo về hội họa.
+Correct: những người này đều được đào tạo về hội họa
+Original: những người này đều được đào tạo về hội họa
+
+--------------------------------------------------
+Without Correct: gắn lông chim hộp đá lóng lánh hay bèo dốn tùa lô đầy cổ.
+Correct: Gắn lông chim hột đá lóng lánh hay bèo dún tù lúa đầy cổ
+Original: gắn lông chim hột đá lóng lánh hay bèo dún tùa lua đầy cổ
+
+--------------------------------------------------
+Without Correct: ngũ ấp hoàng ngang.
+Correct: ngũ ấp hòn nhang
+Original: ngụ ấp hòn ngang
+
+--------------------------------------------------
+Without Correct: ít nhất ở hơn ba mươi trường thuộc các địa phương nói trên.
+Correct: ít nhất ở hơn ba mươi trường thuộc các địa phương nói trên
+Original: ít nhất ở hơn ba mươi trường thuộc các địa phương nói trên
+
+--------------------------------------------------
+Without Correct: đặc điểm của phải trồng tã.
+Correct: đặc điểm của phẩy trồng tã
+Original: đặc điểm của phẩy trùng tả
+
+--------------------------------------------------
+Without Correct: vì ban đêm chị ngủ không ngon.
+Correct: vì ban đêm chị ngủ không ngon.
+Original: vì ban đêm chị ngủ không ngon
+
+--------------------------------------------------
+Without Correct: lơ lửng trên đầu là những chiếc bẫy đá hàng trăm khối.
+Correct: lơ lửng trên đầu là những chiếc bẫy đá nặng hàng trăm khối.
+Original: lơ lửng trên đầu là những chiếc bẫy đá hàng trăm khối
+
+--------------------------------------------------
+Without Correct: năm đầu tiên.
+Correct: năm đầu tiên
+Original: năm đầu tiên
+
+--------------------------------------------------
+Without Correct: bảy mươi bốn bảy mươi lăm.
+Correct: bảy mươi bốn bảy mươi năm
+Original: bảy mươi bốn bảy mươi lăm
+
+--------------------------------------------------
+Without Correct: chín mươi chín mươi mốt.
+Correct: chín mươi chín mươi một
+Original: chín mươi chín mươi mốt
+
+--------------------------------------------------
+Without Correct: chín mươi tám chín mươi chín.
+Correct: chín mươi tám chín mươi chín
+Original: chín mươi tám chín mươi chín
+
+--------------------------------------------------
+Without Correct: bây giờ cướp nhiều quá đi đường cũng thấy sợ.
+Correct: bây giờ cướp nhiều quá đi đường cũng thấy sợ
+Original: bây giờ cướp nhiều quá đi đường cũng thấy sợ
+
+--------------------------------------------------
+Without Correct: tìm hung thủ hiếp dâm bằng nước bọt nạn nhân.
+Correct: tìm hung thủ hiếp dâm bằng nước bọt nạn nhân.
+Original: tìm hung thủ hiếp dâm bằng nước bọt nạn nhân
+
+--------------------------------------------------
+Without Correct: chúng tôi yêu nhau được hai năm thì gia đình tôi xảy ra chuyện.
+Correct: Chúng tôi yêu nhau được hai năm thì gia đình tôi xảy ra chuyện.
+Original: chúng tôi yêu nhau được hai năm thì gia đình tôi xảy ra chuyện
+
+--------------------------------------------------
+Without Correct: trọng tài phạt thẻ đỏ.
+Correct: Trọng tài phạt thẻ đỏ.
+Original: trọng tài phạt thẻ đỏ
+
+--------------------------------------------------
+Without Correct: kiểu này chắc phải cắt giảm biên chế.
+Correct: kiểu này chắc phải cắt giảm biên chế
+Original: kiểu này chắc phải cắt giảm biên chế
+
+--------------------------------------------------
+Without Correct: thôi thì cứ sắp xếp như vậy.
+Correct: thôi thì cứ sắp xếp như vậy
+Original: thôi thì cứ sắp xếp như vậy
+
+--------------------------------------------------
+Without Correct: theo phó chủ tịch ủy ban an toàn giao thông quốc gia.
+Correct: Theo Phó Chủ tịch Ủy ban An toàn Giao thông Quốc gia
+Original: theo phó chủ tịch ủy ban an toàn giao thông quốc gia
+
+--------------------------------------------------
+Without Correct: chuẩn bị cho ngày khai trương cửa hàng đầu tiên.
+Correct: chuẩn bị cho ngày khai trương cửa hàng đầu tiên
+Original: chuẩn bị cho ngày khai trương cửa hàng đầu tiên
+
+--------------------------------------------------
+Without Correct: từ sự dư thừa quá mức của luồng tiền này.
+Correct: từ sự dư thừa quá mức của luồng tiền này
+Original: từ sự dư thừa quá mức của luồng tiền này
+
+--------------------------------------------------
+Without Correct: đó chứng tỏ rằng chúng ta đã già.
+Correct: đó chứng tỏ rằng chúng ta đã già
+Original: đó chứng tỏ rằng chúng ta đã già
+
+--------------------------------------------------
+Without Correct: trả lại đất cho rừng.
+Correct: trả lại đất cho rừng
+Original: trả lại đất cho rừng
+
+--------------------------------------------------
+Without Correct: các loại cây trồng ở rừng này toàn cây kém giá trị.
+Correct: Các loại cây trồng ở rừng này toàn là cây kém giá trị.
+Original: các loại cây trồng ở rừng này toàn cây kém giá trị
+
+--------------------------------------------------
+Without Correct: thiếu sự quan tâm đúng mức từ các cơ quan chức năng.
+Correct: thiếu sự quan tâm đúng mức từ các cơ quan chức năng
+Original: thiếu sự quan tâm đúng mức từ các cơ quan chức năng
+
+--------------------------------------------------
+Without Correct: tại chợ cá.
+Correct: tại chợ cá
+Original: tại chợ cá
+
+--------------------------------------------------
+Without Correct: không phải vì tôi không coi trọng chất lượng.
+Correct: không phải vì tôi không coi trọng chất lượng.
+Original: không phải vì tôi không coi trọng chất lượng
+
+--------------------------------------------------
+Without Correct: thì đọc được hồi ký không thể chuộc lỗi trên báo tuổi trẻ.
+Correct: thì đọc được hồi ký không thể chuộc lỗi trên báo tuổi trẻ
+Original: thì đọc được hồi ký không thể chuộc lỗi trên báo tuổi trẻ
+
+--------------------------------------------------
+Without Correct: thiếu tướng phạm quý ngọ cho biết.
+Correct: Thiếu tướng Phạm Quý Ngọ cho biết.
+Original: thiếu tướng phạm quý ngọ cho biết
+
+--------------------------------------------------
+Without Correct: không một chút trầy trụa mà đền cái gì.
+Correct: Không một chút trầy trội mà đền cái gì
+Original: không một chút trầy trụa mà đền cái gì
+
+--------------------------------------------------
+Without Correct: nó được đặt trong một hộp đựng trang sức bọc da đỏ.
+Correct: Nó được đặt trong một hộp đựng trang sức bọc da đỏ.
+Original: nó được đặt trong một hộp đựng trang sức bọc da đỏ
+
+--------------------------------------------------
+Without Correct: nhóm thanh long trẻ diễn tiểu phẩm hài hắc bạch tranh hùng.
+Correct: nhóm thanh long trẻ diễn tiểu phẩm hài hắc bạch tranh hùng
+Original: nhóm thanh long trẻ diễn tiểu phẩm hài hắc bạch tranh hùng
+
+--------------------------------------------------
+Without Correct: tớ đi kiếm nhà trọ rồi nhưng khó quá.
+Correct: Tớ đi kiếm nhà trọ rồi nhưng khó quá.
+Original: tớ đi kiếm nhà trọ rồi nhưng khó quá
+
+--------------------------------------------------
+Without Correct: xanh cỏ mượt mà ven đường.
+Correct: xanh cỏ mượt mà ven đường
+Original: xanh cỏ mượt mà ven đường
+
+--------------------------------------------------
+Without Correct: chính thức đã lây lan ra bên ngoài.
+Correct: Chính thức đã lan ra ngoài
+Original: chính thức đã lây lan ra bên ngoài
+
+--------------------------------------------------
+Without Correct: phụ huynh và học sinh đang phải è cổ vì sách giá cao.
+Correct: Phụ huynh và học sinh đang phải è cổ vì sách giá cao.
+Original: phụ huynh và học sinh đang phải è cổ vì sách giá cao
+
+--------------------------------------------------
+Without Correct: khi chính phủ lúc đầu đề nghị ân xá cho những người nổi dậy.
+Correct: Khi chính phủ lúc đầu đề nghị ân xá cho những người nổi loạn.
+Original: khi chính phủ lúc đầu đề nghị ân xá cho những người nổi dậy
+
+--------------------------------------------------
+Without Correct: dưới ánh đèn mờ mờ ảo ảo.
+Correct: dưới ánh đèn mờ ảo ảo ảo
+Original: dưới ánh đèn mờ mờ ảo ảo
+
+--------------------------------------------------
+Without Correct: trong cuộc bỏ phiếu tại hội đồng bảo an hai ngày trước đó.
+Correct: trong cuộc bỏ phiếu tại hội đồng bảo an hai ngày trước đó
+Original: trong cuộc bỏ phiếu tại hội đồng bảo an hai ngày trước đó
+
+--------------------------------------------------
+Without Correct: hầu hết những vấn đề xảy ra trên thế giới.
+Correct: Hầu hết những vấn đề xảy ra trên thế giới
+Original: hầu hết những vấn đề xảy ra trên thế giới
+
+--------------------------------------------------
+Without Correct: ông được nhiều người biết đến.
+Correct: ông được nhiều người biết đến
+Original: ông được nhiều người biết đến
+
+--------------------------------------------------
+Without Correct: trả lời tôi biết.
+Correct: trả lời tôi biết
+Original: trả lời tôi biết
+
+--------------------------------------------------
+Without Correct: ất gà to béo ục ất.
+Correct: Kích gà to béo ục ịch.
+Original: ịch gã to béo ục ịch
+
+--------------------------------------------------
+Without Correct: áo rách lươm bườm.
+Correct: áo rách lôm bôm
+Original: áo rách lươm bươm
+
+--------------------------------------------------
+Without Correct: đối với những phản ứng khác biệt đó.
+Correct: đối với những phản ứng khác biệt đó
+Original: đối với những phản ứng khác biệt đó
+
+--------------------------------------------------
+Without Correct: và đã hiến máu ba lần.
+Correct: và đã hiến máu ba lần
+Original: và đã hiến máu ba lần
+
+--------------------------------------------------
+Without Correct: tiếng hét đồng thanh của mấy chục con người.
+Correct: Tiếng hét đồng thanh của mấy chục con người.
+Original: tiếng hét đồng thanh của mấy chục con người
+
+--------------------------------------------------
+Without Correct: trang thứ hai của tờ báo.
+Correct: Trang thứ hai của tờ báo.
+Original: trang thứ hai của tờ báo
+
+--------------------------------------------------
+Without Correct: sau đó bà hàng xóm tính tình xởi lởi chạy qua kể với tôi.
+Correct: Sau đó bà hàng xóm tính tình xởi lởi chạy qua kể với tôi.
+Original: sau đó bà hàng xóm tính tình xởi lởi chạy qua kể với tôi
+
+--------------------------------------------------
+Without Correct: ba mươi hai ba mươi ba.
+Correct: ba mươi hai ba mươi ba
+Original: ba mươi hai ba mươi ba
+
+--------------------------------------------------
+Without Correct: năm mươi hai năm mươi ba.
+Correct: năm mươi hai năm mươi ba
+Original: năm mươi hai năm mươi ba
+
+--------------------------------------------------
+Without Correct: năm mươi bốn năm mươi lăm.
+Correct: năm mươi bốn năm mươi lăm
+Original: năm mươi bốn năm mươi lăm
+
+--------------------------------------------------
+Without Correct: sáu mươi sáu mươi mốt.
+Correct: sáu mươi sáu mươi mốt
+Original: sáu mươi sáu mươi mốt
+
+--------------------------------------------------
+Without Correct: bảy mươi bảy mươi mốt.
+Correct: bảy mươi bảy mươi mốt
+Original: bảy mươi bảy mươi mốt
+
+--------------------------------------------------
+Without Correct: chín mươi bốn chín mươi lăm.
+Correct: chín mươi bốn chín mươi lăm
+Original: chín mươi bốn chín mươi lăm
+
+--------------------------------------------------
+Without Correct: một ba năm bảy chín.
+Correct: một ba năm bảy chín
+Original: một ba năm bảy chín
+
+--------------------------------------------------
+Without Correct: bà con trang trí cành đào để chuẩn bị đón tết.
+Correct: Bà con trang trí cành đào để chuẩn bị đón Tết
+Original: bà con rang trí cành đào để chuẩn bị đón tết
+
+--------------------------------------------------
+Without Correct: tôi không thấy gì là đúng khi tăng giá xe vào các dịp tết.
+Correct: tôi không thấy gì là đúng khi tăng giá xe vào các dịp tết.
+Original: tôi không thấy gì là đúng khi tăng giá xe vào các dịp tết
+
+--------------------------------------------------
+Without Correct: du lịch sẽ trở thành ngành kinh tế mũi nhọn.
+Correct: Du lịch sẽ trở thành ngành kinh tế mũi nhọn.
+Original: du lịch sẽ trở thành ngành kinh tế mũi nhọn
+
+--------------------------------------------------
+Without Correct: từ khi chồng qua đời vì bệnh tật.
+Correct: từ khi chồng qua đời vì bệnh tật.
+Original: từ khi chồng qua đời vì bệnh tật
+
+--------------------------------------------------
+Without Correct: đơn vị mình không nghe ai nói gì chưa hẳn đã tốt.
+Correct: đơn vị mình không nghe ai nói gì thì chưa hẳn đã tốt.
+Original: đơn vị mình không nghe ai nói gì chưa hẳn đã tốt
+
+--------------------------------------------------
+Without Correct: không ai được ngược đãi các em vì các em học chậm.
+Correct: không ai được ngược đãi các em vì các em học chậm
+Original: không ai được ngược đãi các em vì các em học chậm
+
+--------------------------------------------------
+Without Correct: già làng nguyễn mạnh tường trả lời phỏng vấn báo giới ảnh trung dân.
+Correct: già làng Nguyễn Mạnh Tường trả lời phỏng vấn báo giới ảnh Trung Dân.
+Original: già làng nguyễn mạnh tường trả lời phỏng vấn báo giới ảnh trung dân
+
+--------------------------------------------------
+Without Correct: đó là giai đoạn thời tiết ít biến động và nhiệt độ không quá thấp.
+Correct: đó là giai đoạn thời tiết ít biến động và nhiệt độ không quá thấp
+Original: đó là giai đoạn thời tiết ít biến động và nhiệt độ không quá thấp
+
+--------------------------------------------------
+Without Correct: nhưng sau nghe con nói ra nói vào lại ác cảm với em.
+Correct: nhưng sau nghe con nói ra nói vào lại ác cảm với em
+Original: nhưng sau nghe con nói ra nói vào lại ác cảm với em
+
+--------------------------------------------------
+Without Correct: những điếu thuốc vô ý đốt cháy vài chỗ trên chiếc sô pha bọc vải.
+Correct: Những điếu thuốc vô ý đốt cháy vài chỗ trên chiếc ghế sofa bọc vải.
+Original: những điếu thuốc vô ý đốt cháy vài chỗ trên chiếc sô pha bọc vải
+
+--------------------------------------------------
+Without Correct: bạn có thể tắt chương trình đó đi và thực hiện thao tác cuối cùng.
+Correct: bạn có thể tắt chương trình đó đi và thực hiện thao tác cuối cùng
+Original: bạn có thể tắt chương trình đó đi và thực hiện thao tác cuối cùng
+
+--------------------------------------------------
+Without Correct: khắp nơi quanh chúng tôi vương vãi xác chết của người dân vô tội.
+Correct: khắp nơi quanh chúng tôi vương vãi xác chết của người dân vô tội.
+Original: khắp nơi quanh chúng tôi vương vãi xác chết của người dân vô tội
+
+--------------------------------------------------
+Without Correct: những chiếc lồng đèn đồ chơi việt vẫn lặng lẽ mang hồn việt xuống phố.
+Correct: những chiếc lồng đèn đồ chơi việt vẫn lặng lẽ mang hồn việt xuống phố
+Original: những chiếc lồng đèn đồ chơi việt vẫn lặng lẽ mang hồn việt xuống phố
+
+--------------------------------------------------
+Without Correct: nhà văn nguyễn ngọc sinh viên có quyền hoài nghi và tranh cãi.
+Correct: Nhà văn Nguyễn Ngọc Sinh có quyền hoài nghi và tranh cãi
+Original: nhà văn nguyên ngọc sinh viên có quyền hoài nghi và tranh cãi
+
+--------------------------------------------------
+Without Correct: cuộc thi còn có hai giải nhì ba giải ba và bốn giải khuyến khích.
+Correct: cuộc thi còn có hai giải nhì ba giải ba và bốn giải khuyến khích
+Original: cuộc thi còn có hai giải nhì ba giải ba và bốn giải khuyến khích
+
+--------------------------------------------------
+Without Correct: hầu như các phản ứng phụ nặng nề là rất hiếm gặp.
+Correct: Hầu như các phản ứng phụ nặng nề là rất hiếm gặp.
+Original: hầu như các phản ứng phụ nặng nề là rất hiếm gặp
+
+--------------------------------------------------
+Without Correct: số tiền quá lớn khiến gia đình hương phạm và lê choáng váng.
+Correct: Số tiền quá lớn khiến gia đình Hương Phạm và Lê choáng váng.
+Original: số tiền quá lớn khiến gia đình hương phạm và lê choáng váng
+
+--------------------------------------------------
+Without Correct: nhóc đỏ mặt tía tay nhóc thua chị một tuổi thôi đấy.
+Correct: Nhóc đỏ mặt tía tai, nhóc thua chị một tuổi thôi đấy.
+Original: nhóc đỏ mặt tía tai nhóc thua chị một tuổi thôi đấy
+
+--------------------------------------------------
+Without Correct: cảm giác được chia sẻ với bạn đời cùng sở thích thú vị lắm.
+Correct: Cảm giác được chia sẻ với bạn đời cùng sở thích rất thú vị.
+Original: cảm giác được chia sẻ với bạn đời cùng sở thích thú vị lắm
+
+--------------------------------------------------
+Without Correct: tôi vào quầy giải thát đầu tiên và gọi một cốc nước cam.
+Correct: tôi vào quầy giải khát đầu tiên và gọi một cốc nước cam
+Original: tôi vào quầy giải khát đầu tiên và gọi một cốc nước cam
+
+--------------------------------------------------
+Without Correct: mẹ lần tay trong ví và lấy ra chiếc phong bì.
+Correct: mẹ lần tay trong ví và lấy ra chiếc phong bì
+Original: mẹ lần tay trong ví và lấy ra chiếc phong bì
+
+--------------------------------------------------
+Without Correct: tiêu như phong chạy trốn khỏi kinh thành để tìm hung thủ thật sự.
+Correct: Tiêu Như Phong chạy trốn khỏi kinh thành để tìm hung thủ thật sự.
+Original: tiêu như phong chạy trốn khỏi kinh thành để tìm hung thủ thật sự
+
+--------------------------------------------------
+Without Correct: có ngày các bác sĩ điều dưỡng mổ mắt cho hàng trăm người mù nghèo.
+Correct: có ngày các bác sĩ phẫu thuật mổ mắt cho hàng trăm người mù nghèo.
+Original: có ngày các bác sĩ điều dưỡng mổ mắt cho hàng trăm người mù nghèo
+
+--------------------------------------------------
+Without Correct: không ai muốn có tiêu cực cả và cũng đừng tuyệt đối họa vấn đề.
+Correct: không ai muốn có tiêu cực cả và cũng đừng tuyệt đối hóa vấn đề
+Original: không ai muốn có tiêu cực cả và cũng đừng tuyệt đối hóa vấn đề
+
+--------------------------------------------------
+Without Correct: vợ hắn thị ngần mang lưới ra vá để chiều thả.
+Correct: vợ hắn thị ngần mang lưới ra vá để chiều thả
+Original: vợ hắn thị ngần mang lưới ra vá để chiều thả
+
+--------------------------------------------------
+Without Correct: hiện cơ quan chức năng đang tiếp tục điều tra vụ việc.
+Correct: hiện cơ quan chức năng đang tiếp tục điều tra vụ việc.
+Original: hiện cơ quan chức năng đang tiếp tục điều tra vụ việc
+
+--------------------------------------------------
+Without Correct: khi bị phát hiện họ đã trả lời như thế.
+Correct: khi bị phát hiện họ đã trả lời như thế.
+Original: khi bị phát hiện họ đã trả lời như thế nào
+
+--------------------------------------------------
+Without Correct: rà soát chất lượng công trình xây dựng trên cả nước.
+Correct: Rà soát chất lượng công trình xây dựng trên cả nước.
+Original: rà soát chất lượng công trình xây dựng trên cả nước
+
+--------------------------------------------------
+Without Correct: không nản nghĩa tin rằng sẽ có một giải pháp nào đó.
+Correct: Không nản chí, tin rằng sẽ có một giải pháp nào đó.
+Original: không nản nghĩa tin rằng sẽ có một giải pháp nào đó
+
+--------------------------------------------------
+Without Correct: mẹ cũng đã từng thấm khổ tuyệt vọng và cô đơn như vậy.
+Correct: mẹ cũng đã từng thấm khổ tuyệt vọng và cô đơn như vậy.
+Original: mẹ cũng đã từng thống khổ tuyệt vọng và cô đơn như vậy
+
+--------------------------------------------------
+Without Correct: hai loại văn này nên được coi trọng như nhau trong các kỳ thi.
+Correct: Hai loại văn này nên được coi trọng như nhau trong các kỳ thi
+Original: hai loại văn này nên được coi trọng như nhau trong các kỳ thi
+
+--------------------------------------------------
+Without Correct: vậy mới có mục tiêu để mà phấn đấu nên người có ý thức.
+Correct: vậy mới có mục tiêu để mà phấn đấu nên người có ý thức
+Original: vậy mới có mục tiêu để mà phấn đấu nên người có ý thức
+
+--------------------------------------------------
+Without Correct: tại đây có một ông trưởng phòng nhân sự công ty.
+Correct: tại đây có một ông trưởng phòng nhân sự công ty.
+Original: tại đây có một ông trưởng phòng nhân sự công ty
+
+--------------------------------------------------
+Without Correct: chỉ một điều đơn giản vậy mà anh ấy không bao giờ thực hiện được.
+Correct: chỉ một điều đơn giản vậy mà anh ấy không bao giờ thực hiện được
+Original: chỉ một điều đơn giản vậy mà anh ấy không bao giờ thực hiện được
+
+--------------------------------------------------
+Without Correct: chẳng cần nhìn về phương tây quê hương của hàng hiệu.
+Correct: chẳng cần nhìn về phương tây quê hương của hàng hiệu
+Original: chẳng cần nhìn về phương tây quê hương của hàng hiệu
+
+--------------------------------------------------
+Without Correct: đồng cả cánh đồng chuyển sang một màu vàng rực.
+Correct: Độ đông cả cánh đồng chuyển sang một màu vàng rực
+Original: mùa đông cả cánh đồng chuyển sang một màu vàng rực
+
+--------------------------------------------------
+Without Correct: tôi học cùng với các anh chị làm việc chuyên về sản xuất phần mềm.
+Correct: tôi học cùng với các anh chị làm việc chuyên về sản xuất phần mềm
+Original: tôi học cùng với các anh chị làm việc chuyên về sản xuất phần mềm
+
+--------------------------------------------------
+Without Correct: có lẽ đây là lời quảng cáo không công hay nhất cho du lịch nào.
+Correct: Có lẽ đây là lời quảng cáo miễn phí hay nhất cho du lịch nào.
+Original: có lẽ đây là lời quảng cáo không công hay nhất cho du lịch lào
+
+--------------------------------------------------
+Without Correct: từ đó đến nay gia đình chị vẫn sống trong căn nhà lụp xụp.
+Correct: Từ đó đến nay gia đình chị vẫn sống trong căn nhà lụp xụp.
+Original: từ đó đến nay gia đình chị vẫn sống trong căn nhà lụp xụp
+
+--------------------------------------------------
+Without Correct: bạn cần trung thực với nhân viên của mình trong mọi hoàn cảnh.
+Correct: bạn cần trung thực với nhân viên của mình trong mọi hoàn cảnh.
+Original: bạn cần trung thực với nhân viên của mình trong mọi hoàn cảnh
+
+--------------------------------------------------
+Without Correct: một số điểm nước phun đến đâu bay hơi hết đến đó.
+Correct: một số điểm nước phun đến đâu bay hơi hết đến đó
+Original: một số điểm nước phun đến đâu bay hơi hết đến đó
+
+--------------------------------------------------
+Without Correct: do vậy vấn đề khu trú khống chế bệnh tả hiện nay rất khó.
+Correct: Do vậy, vấn đề khu trú khống chế bệnh tả hiện nay rất khó.
+Original: do vậy vấn đề khu trú khống chế bệnh tả hiện nay rất khó
+
+--------------------------------------------------
+Without Correct: đó là câu hỏi mà đến nay vẫn chưa có câu trả lời.
+Correct: đó là câu hỏi mà đến nay vẫn chưa có câu trả lời
+Original: đó là câu hỏi mà đến nay vẫn chưa có câu trả lời
+
+--------------------------------------------------
+Without Correct: hà nội mở rộng khu vực hồ tây sông hồng nên là khu vực tỉnh.
+Correct: Hà Nội mở rộng khu vực Hồ Tây, Sông Hồng nên là khu vực thành phố.
+Original: hà nội mở rộng khu vực hồ tây sông hồng nên là khu vực tĩnh
+
+--------------------------------------------------
+Without Correct: biên chế này nhà thanh gọi là an nam quốc nhạc.
+Correct: Biên chế này nhà Thanh gọi là An Nam quốc nhạc.
+Original: biên chế này nhà thanh gọi là an nam quốc nhạc
+
+--------------------------------------------------
+Without Correct: hơn là dẫn dắt các em theo chủ ý của giáo viên.
+Correct: hơn là dẫn dắt các em theo chủ ý của giáo viên
+Original: hơn là dẫn dắt các em theo chủ ý của giáo viên
+
+--------------------------------------------------
+Without Correct: bạn có thể tham khảo một số sơ ý lý lịch điện tử sau đây.
+Correct: Bạn có thể tham khảo một số sơ ý lý lịch điện tử sau đây.
+Original: bạn có thể tham khảo một sơ yếu lý lịch điện tử sau đây
+
+--------------------------------------------------
+Without Correct: nhạc sĩ la hối với ca khúc xuân và tuổi trẻ.
+Correct: nhạc sĩ la hối với ca khúc xuân và tuổi trẻ
+Original: nhạc sĩ la hối với ca khúc xuân và tuổi trẻ
+
+--------------------------------------------------
+Without Correct: vậy ai sẽ chịu trách nhiệm về những trường hợp này.
+Correct: vậy ai sẽ chịu trách nhiệm về những trường hợp này.
+Original: vậy ai sẽ chịu trách nhiệm về những trường hợp này
+
+--------------------------------------------------
